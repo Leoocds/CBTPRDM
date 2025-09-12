@@ -1,14 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\srwu0\\Desktop\\mobile\\tp01\\",
+  "WorkspaceRootPath": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|c:\\users\\srwu0\\desktop\\mobile\\tp01\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|c:\\users\\srwu0\\desktop\\mobile\\tp01\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\tp01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:tp01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\appshell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:appshell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\tp01.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tp01.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|s:\\users\\leonardo.pedroso\\documents\\ifsp-prdm\\tp01\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06D61A27-AB02-41F2-BD6D-5B583FE8245C}|tp01.csproj|solutionrelative:app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +58,159 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tp01.csproj.user",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\tp01.csproj.user",
+              "RelativeDocumentMoniker": "tp01.csproj.user",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\tp01.csproj.user",
+              "RelativeToolTip": "tp01.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-09-12T15:07:15.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tp01.csproj",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\tp01.csproj",
+              "RelativeDocumentMoniker": "tp01.csproj",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\tp01.csproj",
+              "RelativeToolTip": "tp01.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T15:07:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:07:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "GlobalXmlns.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\GlobalXmlns.cs",
+              "RelativeToolTip": "GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:07:09.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:07:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T15:07:06.665Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\srwu0\\Desktop\\mobile\\tp01\\MainPage.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\srwu0\\Desktop\\mobile\\tp01\\MainPage.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwBEAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T21:01:25.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\srwu0\\Desktop\\mobile\\tp01\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\srwu0\\Desktop\\mobile\\tp01\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\App.xaml",
+              "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T15:09:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T15:09:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:07:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T15:07:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\Documents\\ifsp-prdm\\tp01\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-10T21:01:20.637Z",
               "EditorCaption": ""

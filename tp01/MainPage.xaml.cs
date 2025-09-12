@@ -1,4 +1,4 @@
-﻿//TP01 - Sérgio Wu (CB3025691) / Jackson Gregorio (CB3013189)
+﻿// Leonardo de Lima Pedroso - 3026655
 
 using System;
 using Microsoft.Maui.Controls;
@@ -36,11 +36,11 @@ namespace tp01
 
             if (id == VALID_ID && pass == VALID_PASS)
             {
-                await DisplayAlert("Sucesso", "Logou com sucesso.", "OK");
+                await DisplayAlert("Sucesso", "Login sucedido!", "OK");
             }
             else
             {
-                await DisplayAlert("Erro", "Login não autorizado.", "OK");
+                await DisplayAlert("Erro", "Login não autorizado!", "OK");
                 PassEntry.Text = string.Empty;
                 PassEntry.Focus();
             }
@@ -55,7 +55,7 @@ namespace tp01
 
         private async void CreditsButton_Clicked(object sender, EventArgs e)
         {
-            string autores = "Autores:\n- Sérgio Wu (CB3025691)\n- Jackson Gregorio (3013189)";
+            string autores = "Autor: Leonardo de Lima Pedroso - CB3026655";
             await DisplayAlert("Créditos", autores, "OK");
         }
     }

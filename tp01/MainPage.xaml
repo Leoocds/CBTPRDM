@@ -42,9 +42,9 @@
             <StackLayout Grid.Row="2" Spacing="12" Margin="0,24,0,0" HorizontalOptions="FillAndExpand">
                 <Button x:Name="OkButton" Text="OK" Clicked="OkButton_Clicked"
                         BackgroundColor="#D3D3D3" TextColor="#8B0000" FontAttributes="Bold" HeightRequest="48"/>
-                <Button x:Name="ClearButton" Text="Limpar" Clicked="ClearButton_Clicked"
+                <Button x:Name="ClearButton" Text="LIMPAR" Clicked="ClearButton_Clicked"
                         BackgroundColor="#D3D3D3" TextColor="#8B0000" FontAttributes="Bold" HeightRequest="48"/>
-                <Button x:Name="CreditsButton" Text="Créditos" Clicked="CreditsButton_Clicked"
+                <Button x:Name="CreditsButton" Text="CRÉDITOS" Clicked="CreditsButton_Clicked"
                         BackgroundColor="#D3D3D3" TextColor="#8B0000" FontAttributes="Bold" HeightRequest="48"/>
             </StackLayout>
 
