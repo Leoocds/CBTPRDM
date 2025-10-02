@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TarefasApp
+build_property.ProjectDir = S:\Users\leonardo.pedroso\source\repos\TarefasApp\TarefasApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Pages/Credits.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Pages.Credits.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Credits.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Credits.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Pages/TaskAdd.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Pages.TaskAdd.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TaskAdd.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TaskAdd.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Pages/TaskDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Pages.TaskDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TaskDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TaskDetails.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Pages/TaskEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Pages.TaskEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TaskEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TaskEdit.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[S:/Users/leonardo.pedroso/source/repos/TarefasApp/TarefasApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

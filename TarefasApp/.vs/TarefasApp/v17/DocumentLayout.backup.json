@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\credits.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\credits.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\credits.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\credits.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\taskadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\taskadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\taskadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\taskadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\taskdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\taskdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\taskdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\taskdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\taskedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\taskedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\pages\\taskedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\pages\\taskedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|s:\\users\\leonardo.pedroso\\source\\repos\\tarefasapp\\tarefasapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B41C41-E59A-41D9-B0F9-E6BFAC4235F5}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Credits.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\Credits.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\Credits.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\Credits.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\Pages\\Credits.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Credits.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\Credits.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\Credits.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\Credits.xaml",
+              "RelativeToolTip": "TarefasApp\\Pages\\Credits.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:46:00.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\MainPage.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:45:29.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\MainPage.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml",
+              "RelativeToolTip": "TarefasApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:45:25.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\MauiProgram.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\MauiProgram.cs",
+              "RelativeToolTip": "TarefasApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:45:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:22:11.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "TarefasApp\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:19:55.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Models\\TaskItem.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TarefasApp\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:19:34.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskDetails.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskDetails.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\TaskDetails.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskDetails.xaml",
+              "RelativeToolTip": "TarefasApp\\Pages\\TaskDetails.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:19:02.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\HomePage.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "TarefasApp\\Pages\\HomePage.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:18:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskAdd.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskAdd.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\TaskAdd.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskAdd.xaml",
+              "RelativeToolTip": "TarefasApp\\Pages\\TaskAdd.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:18:39.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Services\\TaskService.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Services\\TaskService.cs",
+              "RelativeToolTip": "TarefasApp\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:20:08.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskAdd.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskAdd.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\TaskAdd.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskAdd.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\Pages\\TaskAdd.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:23:32.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskEdit.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskEdit.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\TaskEdit.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskEdit.xaml",
+              "RelativeToolTip": "TarefasApp\\Pages\\TaskEdit.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:18:54.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskEdit.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskEdit.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\TaskEdit.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskEdit.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\Pages\\TaskEdit.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:23:50.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\App.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\App.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:20:19.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskDetails.xaml.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskDetails.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Pages\\TaskDetails.xaml.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\Pages\\TaskDetails.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\Pages\\TaskDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:24:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "TarefasApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgv0QAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:27:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\App.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\App.xaml",
+              "ToolTip": "S:\\Users\\leonardo.pedroso\\source\\repos\\TarefasApp\\TarefasApp\\App.xaml",
+              "RelativeToolTip": "TarefasApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T20:20:15.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
