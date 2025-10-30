@@ -1,0 +1,48 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PackageTrack.Views.ResultsPage"
+             Title="Resultado">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="16" Spacing="12">
+
+            <Label Text="Status do Pacote" FontSize="20" FontAttributes="Bold" />
+
+            <Frame Padding="12" CornerRadius="8" HasShadow="True">
+                <VerticalStackLayout>
+                    <Label Text="ID:" FontAttributes="Bold" />
+                    <Label Text="{Binding Package.Id}" />
+
+                    <Label Text="Status:" FontAttributes="Bold" />
+                    <Label Text="{Binding Package.Status}" />
+
+                    <Label Text="Enviado em:" FontAttributes="Bold" />
+                    <Label Text="{Binding Package.ShippedDate, StringFormat='{0:dd/MM/yyyy}'}" />
+
+                    <Label Text="Previsão:" FontAttributes="Bold" />
+                    <Label Text="{Binding Package.EstimatedDelivery, StringFormat='{0:dd/MM/yyyy}'}" />
+
+                    <Label Text="Local atual:" FontAttributes="Bold" />
+                    <Label Text="{Binding Package.CurrentLocation}" />
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Histórico de Eventos" FontSize="18" FontAttributes="Bold" />
+            <CollectionView ItemsSource="{Binding Package.History}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="8" CornerRadius="6" Margin="0,4" HasShadow="False">
+                            <StackLayout>
+                                <Label Text="{Binding Date, StringFormat='{0:dd/MM/yyyy HH:mm}'}" FontAttributes="Bold" />
+                                <Label Text="{Binding Location}" />
+                                <Label Text="{Binding Description}" />
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Text="Voltar" Clicked="OnBackClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
