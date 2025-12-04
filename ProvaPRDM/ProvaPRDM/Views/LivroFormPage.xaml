@@ -1,0 +1,23 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProvaPRDM.Views.LivroFormPage"
+             Title="Cadastro de Livro">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Entry x:Name="NomeEntry" Placeholder="Nome do Livro"/>
+            <Entry x:Name="AutorEntry" Placeholder="Nome do Autor"/>
+            <Entry x:Name="EmailEntry" Placeholder="Email do Autor"/>
+            <Entry x:Name="IsbnEntry" Placeholder="ISBN"/>
+
+            <Button Text="Salvar" Clicked="OnSalvar"/>
+
+            <Button Text="Excluir" 
+                x:Name="ExcluirBtn"
+                TextColor="Red"
+                Clicked="OnExcluir"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
